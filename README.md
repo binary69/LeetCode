@@ -2,11 +2,6 @@
 
 My LeetCode solutions, automatically synced via LeetHub.
 
-**Progress**
-- 🟢 Easy: 0
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
 **Languages**
 - **Java** (Primary)
 - **SQL** (Database problems)
