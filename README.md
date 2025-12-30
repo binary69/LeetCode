@@ -32,4 +32,16 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/binary69/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
