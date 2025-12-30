@@ -4,7 +4,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 
 **Languages**
 - **Java** (Primary)
-- **SQL** (Database problems)
+- **MySQL** (Database problems)
 - Python (Occasional)
 - C++ (Rare)
 
