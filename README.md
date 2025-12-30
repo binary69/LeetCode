@@ -28,4 +28,8 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/binary69/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/binary69/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
