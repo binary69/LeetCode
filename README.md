@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/binary69/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/binary69/LeetCode/tree/master/0182-duplicate-emails) |
 ## Array
 |  |
 | ------- |
