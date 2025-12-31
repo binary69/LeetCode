@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/binary69/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -44,4 +45,12 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/binary69/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/binary69/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
