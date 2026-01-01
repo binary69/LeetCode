@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 | ------- |
 | [0011-container-with-most-water](https://github.com/binary69/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/binary69/LeetCode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,8 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/binary69/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/binary69/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
