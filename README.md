@@ -47,6 +47,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/binary69/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/binary69/LeetCode/tree/master/0011-container-with-most-water) |
+| [1768-merge-strings-alternately](https://github.com/binary69/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
