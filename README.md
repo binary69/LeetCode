@@ -43,6 +43,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 | [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/binary69/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/binary69/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/binary69/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/binary69/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## String
 |  |
@@ -71,4 +72,8 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/binary69/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/binary69/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
