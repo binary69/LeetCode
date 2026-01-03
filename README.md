@@ -60,6 +60,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/binary69/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/binary69/LeetCode/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/binary69/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -83,10 +84,19 @@ My LeetCode solutions, automatically synced via LeetHub.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/binary69/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/binary69/LeetCode/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/binary69/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/binary69/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/binary69/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/binary69/LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/binary69/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
