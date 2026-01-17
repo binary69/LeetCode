@@ -51,6 +51,7 @@ My LeetCode solutions, automatically synced via LeetHub.
 | [1661-average-time-of-process-per-machine](https://github.com/binary69/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/binary69/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/binary69/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/binary69/LeetCode/tree/master/1934-confirmation-rate) |
 ## Array
 |  |
 | ------- |
